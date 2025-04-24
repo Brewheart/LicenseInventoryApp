@@ -1,0 +1,67 @@
+[
+    {
+      "tenant_name": "Canergo",
+      "tenant_id": "1cfb2480-8d0d-4ced-91cb-aadabd3188dd"
+    },
+    {
+      "tenant_name": "Skogslotten AB",
+      "tenant_id": "f7b2db4a-80b1-4c3d-bfef-7052e8a2ee14"
+    },
+    {
+        "tenant_name": "Kungshem",
+        "tenant_id": "8c2f3fdf-2431-4205-9cac-6eb859573858"
+    },
+    {
+        "tenant_name": "Arkö Bostad",
+        "tenant_id": "0530b230-fed2-4ef4-ab15-f2e26cd66155"
+    },
+    {
+        "tenant_name": "Skogslotten RF",
+        "tenant_id": "6e952ea2-c23f-4d2e-ae14-d0943bc971d5"
+    },
+    {
+        "tenant_name": "Bronsen",
+        "tenant_id": "e421f161-3cb9-48b3-b560-f0101fa7e0a0"
+    },
+    {
+        "tenant_name": "FBB",
+        "tenant_id": "130c6dbc-0601-42cd-a1af-17cbf1452f9d"
+    },
+    {
+        "tenant_name": "Tektonik",
+        "tenant_id": "cb0381ec-7d33-42bd-81e6-d21ad2759a97"
+    },
+    {
+        "tenant_name": "GSons",
+        "tenant_id": "b198a37a-faaa-4338-a83d-cc727f8b6a74"
+    },
+    {
+        "tenant_name": "CMW",
+        "tenant_id": "e05bea56-5f96-418c-a18a-6e0a7dc1b2d3"
+    },
+    {
+        "tenant_name": "Henning-Jansson",
+        "tenant_id": "83214eee-1682-4cf7-a84c-1d3c0412a2b2"
+    },
+    {
+        "tenant_name": "BC + Byggcontroll",
+        "tenant_id": "4bdde95c-57ac-4b33-832f-7d0504d1cc70"
+    },
+    {
+        "tenant_name": "Viginti",
+        "tenant_id": "59271370-de57-4169-92b7-351094487312"
+    },
+    {
+        "tenant_name": "CH Blossom Management Consulting AB",
+        "tenant_id": "4a4d48c4-c9a6-4faf-8972-e759bb36a8d2"
+    },
+    {
+        "tenant_name": "Stall Skinnarbo AB",
+        "tenant_id": "d3a65f90-711e-4c35-a9eb-2449393e35b4"
+    },
+    {
+        "tenant_name": "Sjörövaren",
+        "tenant_id": "4ff2e521-fd92-4b40-9ee8-e571a8fe90e2"
+    }
+  ]
+  
