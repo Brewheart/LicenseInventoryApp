@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import os
+import matplotlib.pyplot as plt
 
 # 🧱 Make the layout wide
 st.set_page_config(layout="wide")
@@ -22,6 +23,53 @@ else:
         all_data.append(df)
 
     full_df = pd.concat(all_data, ignore_index=True)
+
+    from collections import Counter
+    license_list = []
+    for lic_string in full_df["Licenses"].dropna():
+        license_list.extend([lic.strip() for lic in str(lic_string).split(",")])
+    license_counts = Counter(license_list)
+
+    # Convert to DataFrame
+    import pandas as pd
+    df_licenses = pd.DataFrame.from_dict(license_counts, orient='index', columns=['Count'])
+    df_licenses = df_licenses.sort_values('Count', ascending=False)
+
+    # 🧠 Group licenses that are less than 3% of total into "Other"
+    total = df_licenses["Count"].sum()
+    df_licenses["Percent"] = df_licenses["Count"] / total
+    df_major = df_licenses[df_licenses["Percent"] >= 0.03]  # Show 3%+ individually
+    df_minor = df_licenses[df_licenses["Percent"] < 0.03]
+
+    if not df_minor.empty:
+        other_row = pd.DataFrame([{
+            "Count": df_minor["Count"].sum(),
+            "Percent": df_minor["Percent"].sum()
+        }], index=["Other"])
+        df_licenses_cleaned = pd.concat([df_major, other_row])
+    else:
+        df_licenses_cleaned = df_major
+
+    # 🥧 Draw pie chart
+    st.markdown("## 📊 License Usage Breakdown")
+
+    def autopct_format(values):
+        def format_func(pct):
+            total = sum(values)
+            count = int(round(pct * total / 100.0))
+            return f"{pct:.1f}%\n({count})"
+        return format_func
+
+    fig, ax = plt.subplots()
+    ax.pie(
+        df_licenses_cleaned["Count"],
+        labels=df_licenses_cleaned.index,
+        autopct=autopct_format(df_licenses_cleaned["Count"]),
+        startangle=90,
+        textprops={'fontsize': 10}
+    )
+    ax.axis("equal")
+    st.pyplot(fig)
 
     # 🧹 Drop TenantID column if it exists
     if "TenantId" in full_df.columns:

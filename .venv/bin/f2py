@@ -1,4 +1,4 @@
-#!/home/hamser/workspace/github.com/brewheart/LicenseInventoryApp/.venv/bin/python3.12
+#!/home/brewheart/workspace/LicenseInventoryApp/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
