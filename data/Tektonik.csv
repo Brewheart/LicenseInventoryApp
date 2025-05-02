@@ -1,20 +1,20 @@
-TenantId,UserPrincipalName,DisplayName,Licenses
-,admin@tektonikse.onmicrosoft.com,admin,
-,albin.warnelov_dizparc.se#EXT#@tektonikse.onmicrosoft.com,Albin Wärnelöv,
-,albin.warnelov@tektonik.se,Albin Wärnelöv,Microsoft 365 Business Basic
-,axel.kreicberg_larandegrundskolan.se#EXT#@tektonikse.onmicrosoft.com,axel.kreicberg,
-,daniel.vardi@tektonik.se,Daniel Vardi,"Power Automate Free, Microsoft 365 Business Premium"
-,david.johansson_fbb.se#EXT#@tektonikse.onmicrosoft.com,David Johansson,
-,David.johansson@tektonik.se,David Johansson,Microsoft 365 Business Premium
-,Fabiana.danho@tektonik.se,Fabiana Danho,Microsoft 365 Business Premium
-,faktura@tektonik.se,Faktura,
-,fredric.karlaryd@tektonik.se,Fredric Karlaryd,"Power Automate Free, Microsoft 365 Business Premium"
-,info@tektonik.se,Info,
-,jacob.scherdin@tektonik.se,Jacob  Scherdin,"Power Automate Free, Microsoft 365 Business Premium"
-,Johnny.warnelov@tektonik.se,Johnny Warnelov,Microsoft 365 Business Basic
-,martin.johansson_fbb.se#EXT#@tektonikse.onmicrosoft.com,Martin Johansson,
-,martin.ljungdahl@tektonik.se,Martin Ljungdahl,Microsoft 365 Business Premium
-,niklas.vallin@tektonik.se,Niklas Vallin,Microsoft 365 Business Premium
-,robert.kreicberg@tektonik.se,Robert Kreicberg,"Project Plan 1, Power Automate Free, Microsoft 365 Business Premium"
-,Sofia.lindberg@tektonik.se,Sofia Lindberg,Microsoft 365 Business Premium
-,stefan.edwall@tektonik.se,Stefan Edwall,Microsoft 365 Business Basic
+UserPrincipalName,DisplayName,Licenses
+admin@tektonikse.onmicrosoft.com,admin,
+albin.warnelov_dizparc.se#EXT#@tektonikse.onmicrosoft.com,Albin Wärnelöv,
+albin.warnelov@tektonik.se,Albin Wärnelöv,Microsoft 365 Business Basic
+axel.kreicberg_larandegrundskolan.se#EXT#@tektonikse.onmicrosoft.com,axel.kreicberg,
+daniel.vardi@tektonik.se,Daniel Vardi,"Power Automate Free, Microsoft 365 Business Premium"
+david.johansson_fbb.se#EXT#@tektonikse.onmicrosoft.com,David Johansson,
+David.johansson@tektonik.se,David Johansson,Microsoft 365 Business Premium
+Fabiana.danho@tektonik.se,Fabiana Danho,Microsoft 365 Business Premium
+faktura@tektonik.se,Faktura,
+fredric.karlaryd@tektonik.se,Fredric Karlaryd,"Power Automate Free, Microsoft 365 Business Premium"
+info@tektonik.se,Info,
+jacob.scherdin@tektonik.se,Jacob  Scherdin,"Power Automate Free, Microsoft 365 Business Premium"
+Johnny.warnelov@tektonik.se,Johnny Warnelov,Microsoft 365 Business Basic
+martin.johansson_fbb.se#EXT#@tektonikse.onmicrosoft.com,Martin Johansson,
+martin.ljungdahl@tektonik.se,Martin Ljungdahl,Microsoft 365 Business Premium
+niklas.vallin@tektonik.se,Niklas Vallin,Microsoft 365 Business Premium
+robert.kreicberg@tektonik.se,Robert Kreicberg,"Project Plan 1, Power Automate Free, Microsoft 365 Business Premium"
+Sofia.lindberg@tektonik.se,Sofia Lindberg,Microsoft 365 Business Premium
+stefan.edwall@tektonik.se,Stefan Edwall,Microsoft 365 Business Basic

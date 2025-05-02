@@ -1,8 +1,8 @@
-TenantId,UserPrincipalName,DisplayName,Licenses
-,admin@vigintiab.onmicrosoft.com,Admin,"Microsoft 365 Business Premium, Power Automate Free"
-,alexander@viginti.se,Alexander Gil,"Microsoft 365 Business Premium, Power Automate Free"
-,backupadmin@vigintiab.onmicrosoft.com,Backup admin,
-,johan@viginti.se,Johan Arkler,Microsoft 365 Business Premium
-,johanna@viginti.se,Johanna Andersson,Microsoft 365 Business Premium
-,magnusruthstrom_icloud.com#EXT#@vigintiab.onmicrosoft.com,magnusruthstrom,
-,patrik@viginti.se,Patrik Ondracek,"Power Automate Free, Microsoft 365 Business Premium"
+UserPrincipalName,DisplayName,Licenses
+admin@vigintiab.onmicrosoft.com,Admin,"Microsoft 365 Business Premium, Power Automate Free"
+alexander@viginti.se,Alexander Gil,"Microsoft 365 Business Premium, Power Automate Free"
+backupadmin@vigintiab.onmicrosoft.com,Backup admin,
+johan@viginti.se,Johan Arkler,Microsoft 365 Business Premium
+johanna@viginti.se,Johanna Andersson,Microsoft 365 Business Premium
+magnusruthstrom_icloud.com#EXT#@vigintiab.onmicrosoft.com,magnusruthstrom,
+patrik@viginti.se,Patrik Ondracek,"Power Automate Free, Microsoft 365 Business Premium"

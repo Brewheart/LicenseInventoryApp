@@ -27,24 +27,35 @@ FRIENDLY_NAMES = {
     "PROJECT_P1": "Project Plan 1",
     "05e9a617-0261-4cee-bb44-138d3ef5d965": "Microsoft 365 E3",
     "18181a46-0d4e-45cd-891e-60aabd171b4e": "Office 365 Enterprise E1",
+    "SPB": "Microsoft 365 Business Premium",
+    "O365_BUSINESS_PREMIUM": "Microsoft 365 Business Standard",
+    "RMSBASIC": "Azure Rights Management",
+    "EXCHANGEENTERPRISE": "Exchange Online Plan 2",
+    "EXCHANGESTANDARD": "Exchange Online Plan 1",
+    "SPE_E3": "Microsoft 365 E3",
+    "STANDARDPACK": "Office 365 E1",
+    "TEST_M365_LIGHTHOUSE_PARTNER_PLAN1": "Microsoft 365 Lighthouse Partner Plan"
     # Add more as needed — you'll see them in the exported CSV
 }
 
 
 # Match Users to Licenses
-def map_users_to_licenses(users_data, license_lookup, tenant_id=None):
+def map_users_to_licenses(users_data, license_lookup):
     user_list = []
-    for user in users_data['value']:
-        assigned = user.get('assignedLicenses', [])
-        readable_licenses = [
-            license_lookup.get(lic['skuId'], FRIENDLY_NAMES.get(lic['skuId'], lic['skuId']))
-            for lic in assigned
-        ]
+    for user in users_data.get("value", []):
+        licenses = []
+        for assigned in user.get("assignedLicenses", []):
+            sku_id = assigned.get("skuId")
+            license_name = license_lookup.get(sku_id, "")
+            # ✨ Apply friendly name mapping
+            friendly_name = FRIENDLY_NAMES.get(license_name, license_name)
+            if friendly_name:
+                licenses.append(friendly_name)
+        
         user_list.append({
-            "TenantId": tenant_id,
             "UserPrincipalName": user.get("userPrincipalName", ""),
             "DisplayName": user.get("displayName", ""),
-            "Licenses": ", ".join(readable_licenses)
+            "Licenses": ", ".join(licenses)
         })
     return user_list
 

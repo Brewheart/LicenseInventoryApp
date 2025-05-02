@@ -1,38 +1,38 @@
-TenantId,UserPrincipalName,DisplayName,Licenses
-,admin@kungshem.se,Westbarn Invest AB,Microsoft 365 Business Premium
-,anna.eriksson@kungshem.se,Anna Klingfeldt Eriksson,Microsoft 365 Business Premium
-,birgitta@westerbergs.nu,Birgitta Westerberg,Microsoft 365 Business Premium
-,camilla.malmsjo@kungshem.se,Camilla Malmsjö,Microsoft 365 Business Premium
-,canergo@kungshem.se,Canergo,
-,Caroline.westerberg@kungshem.se,Caroline Westerberg,Microsoft 365 Business Premium
-,cecilia.eriksson@kungshem.se,Cecilia Eriksson,Microsoft 365 Business Premium
-,emilia.eriksson@kungshem.se,Emilia Eriksson,"Power Automate Free, Microsoft 365 Business Premium"
-,emilia@kungshem.se,Emilia,
-,emma.hallkvist@kungshem.se,Emma Hallkvist,Microsoft 365 Business Premium
-,erica.thorell@kungshem.se,Erica Thorell,Microsoft 365 Business Premium
-,erik.westerberg@kungshem.se,Erik Westerberg,Microsoft 365 Business Premium
-,faktura@kungshem.se,Faktura - Kungshem,Exchange Online (Plan 1)
-,felanmalan@kungshem.se,Felanmälan - Kungshem,Exchange Online (Plan 1)
-,info@kungshem.se,Info - Kungshem,Exchange Online (Plan 1)
-,jessica.gustafsson@kungshem.se,Jessica Gustafsson,Microsoft 365 Business Premium
-,johan.eriksson@kungshem.se,Johan Eriksson,Microsoft 365 Business Premium
-,johan.waern@kungshem.se,Johan Waern,Microsoft 365 Business Premium
-,jonas.thorsell@kungshem.se,Jonas Thorsell,Microsoft 365 Business Premium
-,jorgen.olsson@kungshem.se,Jörgen Olsson,Microsoft 365 Business Premium
-,konsult@kungshem.se,Konsult,
-,kristina.lagerstrom@kungshem.se,Kristina Lagerström,Microsoft 365 Business Premium
-,lars@westerbergs.nu,Lars Westerberg,Microsoft 365 Business Premium
-,marcus.larsson@kungshem.se,Marcus Larsson,Microsoft 365 Business Premium
-,maria.westerberg@kungshem.se,Maria Westerberg,Microsoft 365 Business Premium
-,maria_segersta.se#EXT#@westerbergs.onmicrosoft.com,maria@segersta.se,
-,mats.andersson@kungshem.se,Mats Andersson,Microsoft 365 Business Premium
-,mikael.eriksson@kungshem.se,Mikael Eriksson,Exchange Online (Plan 1)
-,niclas.stenberg@kungshem.se,Niclas Stenberg,Microsoft 365 Business Premium
-,per.brorsson@kungshem.se,Per Brorsson,Microsoft 365 Business Premium
-,per.carman@kungshem.se,Per Carman,Microsoft 365 Business Premium
-,perry.eriksson@kungshem.se,Perry Eriksson,
-,peter.pihlstrom@kungshem.se,Peter Pihlström,Microsoft 365 Business Premium
-,scanner@kungshem.se,Scanner - Kungshem,Exchange Online (Plan 1)
-,susanna.kjallstrom@kungshem.se,Susanna Kjällström,Exchange Online (Plan 1)
-,tobias.eriksson@kungshem.se,Tobias Eriksson,Microsoft 365 Business Premium
-,uthyrning@kungshem.se,Uthyrning - Kungshem,Microsoft 365 Business Premium
+UserPrincipalName,DisplayName,Licenses
+admin@kungshem.se,Westbarn Invest AB,Microsoft 365 Business Premium
+anna.eriksson@kungshem.se,Anna Klingfeldt Eriksson,Microsoft 365 Business Premium
+birgitta@westerbergs.nu,Birgitta Westerberg,Microsoft 365 Business Premium
+camilla.malmsjo@kungshem.se,Camilla Malmsjö,Microsoft 365 Business Premium
+canergo@kungshem.se,Canergo,
+Caroline.westerberg@kungshem.se,Caroline Westerberg,Microsoft 365 Business Premium
+cecilia.eriksson@kungshem.se,Cecilia Eriksson,Microsoft 365 Business Premium
+emilia.eriksson@kungshem.se,Emilia Eriksson,"Power Automate Free, Microsoft 365 Business Premium"
+emilia@kungshem.se,Emilia,
+emma.hallkvist@kungshem.se,Emma Hallkvist,Microsoft 365 Business Premium
+erica.thorell@kungshem.se,Erica Thorell,Microsoft 365 Business Premium
+erik.westerberg@kungshem.se,Erik Westerberg,Microsoft 365 Business Premium
+faktura@kungshem.se,Faktura - Kungshem,
+felanmalan@kungshem.se,Felanmälan - Kungshem,
+info@kungshem.se,Info - Kungshem,
+jessica.gustafsson@kungshem.se,Jessica Gustafsson,Microsoft 365 Business Premium
+johan.eriksson@kungshem.se,Johan Eriksson,Microsoft 365 Business Premium
+johan.waern@kungshem.se,Johan Waern,Microsoft 365 Business Premium
+jonas.thorsell@kungshem.se,Jonas Thorsell,Microsoft 365 Business Premium
+jorgen.olsson@kungshem.se,Jörgen Olsson,Microsoft 365 Business Premium
+konsult@kungshem.se,Konsult,
+kristina.lagerstrom@kungshem.se,Kristina Lagerström,Microsoft 365 Business Premium
+lars@westerbergs.nu,Lars Westerberg,Microsoft 365 Business Premium
+marcus.larsson@kungshem.se,Marcus Larsson,Microsoft 365 Business Premium
+maria.westerberg@kungshem.se,Maria Westerberg,Microsoft 365 Business Premium
+maria_segersta.se#EXT#@westerbergs.onmicrosoft.com,maria@segersta.se,
+mats.andersson@kungshem.se,Mats Andersson,Microsoft 365 Business Premium
+mikael.eriksson@kungshem.se,Mikael Eriksson,
+niclas.stenberg@kungshem.se,Niclas Stenberg,Microsoft 365 Business Premium
+per.brorsson@kungshem.se,Per Brorsson,Microsoft 365 Business Premium
+per.carman@kungshem.se,Per Carman,Microsoft 365 Business Premium
+perry.eriksson@kungshem.se,Perry Eriksson,
+peter.pihlstrom@kungshem.se,Peter Pihlström,Microsoft 365 Business Premium
+scanner@kungshem.se,Scanner - Kungshem,
+susanna.kjallstrom@kungshem.se,Susanna Kjällström,
+tobias.eriksson@kungshem.se,Tobias Eriksson,Microsoft 365 Business Premium
+uthyrning@kungshem.se,Uthyrning - Kungshem,Microsoft 365 Business Premium

@@ -1,20 +1,20 @@
-TenantId,UserPrincipalName,DisplayName,Licenses
-,alexia.hellqvist_gmail.com#EXT#@Sjorovaren.onmicrosoft.com,alexia.hellqvist,
-,canergo@Sjorovaren.onmicrosoft.com,Sebastian Carlsson,
-,elinboquist_hotmail.com#EXT#@Sjorovaren.onmicrosoft.com,elinboquist@hotmail.com,
-,gezici.elisabeth_gmail.com#EXT#@Sjorovaren.onmicrosoft.com,gezici.elisabeth@gmail.com,
-,gezicigabriel_gmail.com#EXT#@Sjorovaren.onmicrosoft.com,gezicigabriel@gmail.com,
-,hanna83karlsson_outlook.com#EXT#@Sjorovaren.onmicrosoft.com,hanna83karlsson,
-,johanforsgren_gmail.com#EXT#@Sjorovaren.onmicrosoft.com,johanforsgren@gmail.com,
-,jonna.lundell_live.se#EXT#@Sjorovaren.onmicrosoft.com,jonna.lundell@live.se,
-,juliamiding_hotmail.com#EXT#@Sjorovaren.onmicrosoft.com,juliamiding,
-,kassor@sjorovaren.se,Kassör Sjörövaren,Microsoft 365 Business Basic
-,malin-pettersson_outlook.com#EXT#@Sjorovaren.onmicrosoft.com,malin-pettersson,
-,mathilda.andersson_canon.se#EXT#@Sjorovaren.onmicrosoft.com,mathilda.andersson@canon.se,
-,mathilda_vab.se#EXT#@Sjorovaren.onmicrosoft.com,mathilda@vab.se,
-,ordforande@sjorovaren.se,Ordförande Sjörövaren,Microsoft 365 Business Basic
-,pedagog@sjorovaren.se,Pedagog Sjörövaren,"Power Automate Free, Microsoft 365 Business Standard"
-,personalansvarig@sjorovaren.se,Personalansvarig Sjörövaren,"Power Automate Free, Microsoft 365 Business Basic"
-,rektor@sjorovaren.se,Rektor Sjörövaren,Microsoft 365 Business Standard
-,sekreterare@sjorovaren.se,Sekreterare Sjörövaren,Microsoft 365 Business Basic
-,towalofqvist_gmail.com#EXT#@Sjorovaren.onmicrosoft.com,towalofqvist,
+UserPrincipalName,DisplayName,Licenses
+alexia.hellqvist_gmail.com#EXT#@Sjorovaren.onmicrosoft.com,alexia.hellqvist,
+canergo@Sjorovaren.onmicrosoft.com,Sebastian Carlsson,
+elinboquist_hotmail.com#EXT#@Sjorovaren.onmicrosoft.com,elinboquist@hotmail.com,
+gezici.elisabeth_gmail.com#EXT#@Sjorovaren.onmicrosoft.com,gezici.elisabeth@gmail.com,
+gezicigabriel_gmail.com#EXT#@Sjorovaren.onmicrosoft.com,gezicigabriel@gmail.com,
+hanna83karlsson_outlook.com#EXT#@Sjorovaren.onmicrosoft.com,hanna83karlsson,
+johanforsgren_gmail.com#EXT#@Sjorovaren.onmicrosoft.com,johanforsgren@gmail.com,
+jonna.lundell_live.se#EXT#@Sjorovaren.onmicrosoft.com,jonna.lundell@live.se,
+juliamiding_hotmail.com#EXT#@Sjorovaren.onmicrosoft.com,juliamiding,
+kassor@sjorovaren.se,Kassör Sjörövaren,Microsoft 365 Business Basic
+malin-pettersson_outlook.com#EXT#@Sjorovaren.onmicrosoft.com,malin-pettersson,
+mathilda.andersson_canon.se#EXT#@Sjorovaren.onmicrosoft.com,mathilda.andersson@canon.se,
+mathilda_vab.se#EXT#@Sjorovaren.onmicrosoft.com,mathilda@vab.se,
+ordforande@sjorovaren.se,Ordförande Sjörövaren,Microsoft 365 Business Basic
+pedagog@sjorovaren.se,Pedagog Sjörövaren,"Power Automate Free, Microsoft 365 Business Standard"
+personalansvarig@sjorovaren.se,Personalansvarig Sjörövaren,"Power Automate Free, Microsoft 365 Business Basic"
+rektor@sjorovaren.se,Rektor Sjörövaren,Microsoft 365 Business Standard
+sekreterare@sjorovaren.se,Sekreterare Sjörövaren,Microsoft 365 Business Basic
+towalofqvist_gmail.com#EXT#@Sjorovaren.onmicrosoft.com,towalofqvist,

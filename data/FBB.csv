@@ -1,63 +1,63 @@
-TenantId,UserPrincipalName,DisplayName,Licenses
-,admin@fbbse.onmicrosoft.com,admin,
-,arkiv.david@fbbse.onmicrosoft.com,David Arkiv,Microsoft 365 Business Basic
-,besmallah.haydari@fbb.se,Besmallah Haydari,Microsoft 365 Business Basic
-,bjorn.karlsson@fbb.se,Björn Karlsson,Microsoft 365 Business Basic
-,canergo@fbb.se,canergo,
-,canergo@fbbse.onmicrosoft.com,Canergo,
-,charles.arvidsson@fbb.se,Charles Arvidsson,
-,christer.andersson@fbb.se,Christer Andersson,Microsoft 365 Business Basic
-,danand@fbbse.onmicrosoft.com,Daniel Andersson,
-,daniel.andersson@fbb.se,Daniel Andersson,Microsoft 365 Business Premium
-,david.johansson@fbb.se,David Johansson,"Microsoft 365 Business Premium, Exchange Online (Plan 2)"
-,davjoh@fbbse.onmicrosoft.com,David Johansson,
-,dennis.germundsson@fbb.se,Dennis Germundsson,Microsoft 365 Business Basic
-,dennis.hedman@fbb.se,Dennis Hedman,Microsoft 365 Business Basic
-,emil.antonsson@fbb.se,Emil Antonsson,Microsoft 365 Business Basic
-,eric.soderholm@fbb.se,Eric Söderholm,Microsoft 365 Business Basic
-,erik.johansson@fbb.se,Erik Johansson,Microsoft 365 Business Basic
-,fabdan@fbbse.onmicrosoft.com,Fabiana Danho,
-,fabiana.danho@fbb.se,Fabiana Danho,Microsoft 365 Business Premium
-,faktura@fbb.se,Faktura FBB,Microsoft 365 Business Basic
-,fakturafastigheter@fbb.se,Faktura Fastigheter FBB,Microsoft 365 Business Basic
-,fakturamaskin@fbb.se,Faktura Maskin FBB,Microsoft 365 Business Basic
-,goran.eriksson@fbb.se,Göran Eriksson,Microsoft 365 Business Basic
-,gustav.hjorth@fbb.se,Gustav Hjorth,Microsoft 365 Business Premium
-,info@fbb.se,Finspångs Brunnsborrning AB,Microsoft 365 Business Premium
-,jens.spangberg@fbb.se,Jens Spångberg,
-,johannes.hall@fbb.se,Johannes Hall,Microsoft 365 Business Basic
-,john.doe@fbbse.onmicrosoft.com,John Doe,
-,Jon.kallgren@fbb.se,Jon  Källgren,Microsoft 365 Business Basic
-,jonas.ekestubbe@fbbgeoenergi.se,Jonas Ekestubbe,
-,jonas.fredriksson@fbb.se,Jonas Fredriksson,
-,jonathan.tuohimaa@fbb.se,Jonathan Tuohimaa,Microsoft 365 Business Basic
-,jonny.pettersson@fbb.se,Jonny Pettersson,Microsoft 365 Business Basic
-,kevin.carmstedt@fbb.se,Kevin Carmstedt,Microsoft 365 Business Basic
-,krister.andersson@fbb.se,Krister Andersson,
-,linus.eriksson@fbb.se,Linus Eriksson,Microsoft 365 Business Basic
-,madelaine.johansson@fbb.se,Madelaine Johansson,Microsoft 365 Business Premium
-,malte.lundbom@fbb.se,Malte Lundbom,Microsoft 365 Business Basic
-,marcus.backstedt@fbb.se,Marcus Backstedt,
-,markus.ivarius@fbb.se,Markus Ivarius,Microsoft 365 Business Basic
-,martin.johansson@fbb.se,Martin Johansson,
-,martin.ljungdahl@fbb.se,Martin Ljungdahl,"Exchange Online (Plan 2), Microsoft 365 Business Premium"
-,nikojan.asp@fbb.se,Nikojan Asp,Microsoft 365 Business Basic
-,oskar.johansson@fbb.se,Oskar Johansson,Microsoft 365 Business Basic
-,peter.borell@fbb.se,Peter Borell,Microsoft 365 Business Basic
-,Pontus.Jangeroth@fbb.se,Pontus Jangeroth,Microsoft 365 Business Basic
-,rasmus.karlsson@fbb.se,Rasmus Karlsson,Microsoft 365 Business Basic
-,rm20@fbb.se,rm20,Microsoft 365 Business Basic
-,roger.lewin@fbb.se,Roger Lewin,Microsoft 365 Business Basic
-,skrivare@fbb.se,Canon Skrivare,Microsoft 365 Business Basic
-,sofia.lindberg@fbb.se,Sofia Lindberg,Microsoft 365 Business Premium
-,soflin@fbbse.onmicrosoft.com,Sofia Lindberg,
-,stefan.jarl@fbb.se,Stefan Jarl,Microsoft 365 Business Basic
-,stefan.johansson@fbb.se,Stefan Johansson,Microsoft 365 Business Basic
-,susanne.brinck@fbb.se,Susanne Brinck,Microsoft 365 Business Premium
-,susbri@fbbse.onmicrosoft.com,Susanne Brinck,
-,Sync_FBBSRV01_610b3b4a590d@fbbse.onmicrosoft.com,On-Premises Directory Synchronization Service Account,
-,techdata@fbbse.onmicrosoft.com,techdata,
-,test1@fbbse.onmicrosoft.com,Test,
-,tobias.koljo@fbb.se,Tobias Koljo,Microsoft 365 Business Basic
-,Tobias.wallentin@fbb.se,Tobias Wallentin,Microsoft 365 Business Basic
-,viktor.stromberg@fbb.se,Viktor Strömberg,
+UserPrincipalName,DisplayName,Licenses
+admin@fbbse.onmicrosoft.com,admin,
+arkiv.david@fbbse.onmicrosoft.com,David Arkiv,Microsoft 365 Business Basic
+besmallah.haydari@fbb.se,Besmallah Haydari,Microsoft 365 Business Basic
+bjorn.karlsson@fbb.se,Björn Karlsson,Microsoft 365 Business Basic
+canergo@fbb.se,canergo,
+canergo@fbbse.onmicrosoft.com,Canergo,
+charles.arvidsson@fbb.se,Charles Arvidsson,
+christer.andersson@fbb.se,Christer Andersson,Microsoft 365 Business Basic
+danand@fbbse.onmicrosoft.com,Daniel Andersson,
+daniel.andersson@fbb.se,Daniel Andersson,Microsoft 365 Business Premium
+david.johansson@fbb.se,David Johansson,"Microsoft 365 Business Premium, Exchange Online Plan 2"
+davjoh@fbbse.onmicrosoft.com,David Johansson,
+dennis.germundsson@fbb.se,Dennis Germundsson,Microsoft 365 Business Basic
+dennis.hedman@fbb.se,Dennis Hedman,Microsoft 365 Business Basic
+emil.antonsson@fbb.se,Emil Antonsson,Microsoft 365 Business Basic
+eric.soderholm@fbb.se,Eric Söderholm,Microsoft 365 Business Basic
+erik.johansson@fbb.se,Erik Johansson,Microsoft 365 Business Basic
+fabdan@fbbse.onmicrosoft.com,Fabiana Danho,
+fabiana.danho@fbb.se,Fabiana Danho,Microsoft 365 Business Premium
+faktura@fbb.se,Faktura FBB,Microsoft 365 Business Basic
+fakturafastigheter@fbb.se,Faktura Fastigheter FBB,Microsoft 365 Business Basic
+fakturamaskin@fbb.se,Faktura Maskin FBB,Microsoft 365 Business Basic
+goran.eriksson@fbb.se,Göran Eriksson,Microsoft 365 Business Basic
+gustav.hjorth@fbb.se,Gustav Hjorth,Microsoft 365 Business Premium
+info@fbb.se,Finspångs Brunnsborrning AB,Microsoft 365 Business Premium
+jens.spangberg@fbb.se,Jens Spångberg,
+johannes.hall@fbb.se,Johannes Hall,Microsoft 365 Business Basic
+john.doe@fbbse.onmicrosoft.com,John Doe,
+Jon.kallgren@fbb.se,Jon  Källgren,Microsoft 365 Business Basic
+jonas.ekestubbe@fbbgeoenergi.se,Jonas Ekestubbe,
+jonas.fredriksson@fbb.se,Jonas Fredriksson,
+jonathan.tuohimaa@fbb.se,Jonathan Tuohimaa,Microsoft 365 Business Basic
+jonny.pettersson@fbb.se,Jonny Pettersson,Microsoft 365 Business Basic
+kevin.carmstedt@fbb.se,Kevin Carmstedt,Microsoft 365 Business Basic
+krister.andersson@fbb.se,Krister Andersson,
+linus.eriksson@fbb.se,Linus Eriksson,Microsoft 365 Business Basic
+madelaine.johansson@fbb.se,Madelaine Johansson,Microsoft 365 Business Premium
+malte.lundbom@fbb.se,Malte Lundbom,Microsoft 365 Business Basic
+marcus.backstedt@fbb.se,Marcus Backstedt,
+markus.ivarius@fbb.se,Markus Ivarius,Microsoft 365 Business Basic
+martin.johansson@fbb.se,Martin Johansson,
+martin.ljungdahl@fbb.se,Martin Ljungdahl,"Exchange Online Plan 2, Microsoft 365 Business Premium"
+nikojan.asp@fbb.se,Nikojan Asp,Microsoft 365 Business Basic
+oskar.johansson@fbb.se,Oskar Johansson,Microsoft 365 Business Basic
+peter.borell@fbb.se,Peter Borell,Microsoft 365 Business Basic
+Pontus.Jangeroth@fbb.se,Pontus Jangeroth,Microsoft 365 Business Basic
+rasmus.karlsson@fbb.se,Rasmus Karlsson,Microsoft 365 Business Basic
+rm20@fbb.se,rm20,Microsoft 365 Business Basic
+roger.lewin@fbb.se,Roger Lewin,Microsoft 365 Business Basic
+skrivare@fbb.se,Canon Skrivare,Microsoft 365 Business Basic
+sofia.lindberg@fbb.se,Sofia Lindberg,Microsoft 365 Business Premium
+soflin@fbbse.onmicrosoft.com,Sofia Lindberg,
+stefan.jarl@fbb.se,Stefan Jarl,Microsoft 365 Business Basic
+stefan.johansson@fbb.se,Stefan Johansson,Microsoft 365 Business Basic
+susanne.brinck@fbb.se,Susanne Brinck,Microsoft 365 Business Premium
+susbri@fbbse.onmicrosoft.com,Susanne Brinck,
+Sync_FBBSRV01_610b3b4a590d@fbbse.onmicrosoft.com,On-Premises Directory Synchronization Service Account,
+techdata@fbbse.onmicrosoft.com,techdata,
+test1@fbbse.onmicrosoft.com,Test,
+tobias.koljo@fbb.se,Tobias Koljo,Microsoft 365 Business Basic
+Tobias.wallentin@fbb.se,Tobias Wallentin,Microsoft 365 Business Basic
+viktor.stromberg@fbb.se,Viktor Strömberg,

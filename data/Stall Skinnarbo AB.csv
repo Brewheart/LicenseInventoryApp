@@ -1,7 +1,7 @@
-TenantId,UserPrincipalName,DisplayName,Licenses
-,admin@stallskinnarbo.onmicrosoft.com,admin,
-,christian.lindblad@stallskinnarbo.se,Christian Lindblad,Microsoft 365 Business Basic
-,faktura@stallskinnarbo.se,Faktura,
-,felicia.johnson@stallskinnarbo.se,Felicia Johnson,Microsoft 365 Business Standard
-,therese.lindblad@stallskinnarbo.se,Therese Lindblad,Microsoft 365 Business Basic
-,tilda.lindblad@stallskinnarbo.se,Tilda Lindblad,Microsoft 365 Business Basic
+UserPrincipalName,DisplayName,Licenses
+admin@stallskinnarbo.onmicrosoft.com,admin,
+christian.lindblad@stallskinnarbo.se,Christian Lindblad,Microsoft 365 Business Basic
+faktura@stallskinnarbo.se,Faktura,
+felicia.johnson@stallskinnarbo.se,Felicia Johnson,Microsoft 365 Business Standard
+therese.lindblad@stallskinnarbo.se,Therese Lindblad,Microsoft 365 Business Basic
+tilda.lindblad@stallskinnarbo.se,Tilda Lindblad,Microsoft 365 Business Basic

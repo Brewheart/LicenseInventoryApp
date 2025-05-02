@@ -1,26 +1,26 @@
-TenantId,UserPrincipalName,DisplayName,Licenses
-,admin@gsonsab.onmicrosoft.com,admin,
-,Adminlpi@gsonsakeri.se,G:sons Åkeri AB Linköping,Microsoft 365 Business Standard
-,Adminnrk@gsonsakeri.se,G:sons Åkeri AB Norrköping,Microsoft 365 Business Standard
-,andreas@gsonsakeri.se,Andreas Nilsson,
-,canergo.admin@gsonsakeri.se,canergo admin,
-,fredrik.lindqvist@gsonsakeri.se,Fredrik Lindqvist,
-,Fredrik@gsonsakeri.se,Fredrik Gunnarsson,"Microsoft 365 Business Premium, Microsoft 365 Business Basic"
-,Glenn@gsonsakeri.se,Glenn Dahlberg,"Microsoft 365 Business Standard, Microsoft 365 Business Premium"
-,greger@gsonsakeri.se,Greger Hagström,"Microsoft 365 Business Standard, Microsoft 365 Business Premium"
-,Hakan@gsonsakeri.se,Håkan Svensson,"Microsoft 365 Business Standard, Microsoft 365 Business Premium"
-,Henrik@gsonsakeri.se,Henrik Månsson,
-,info@gsonsakeri.se,organisation,
-,Inger@gsonsakeri.se,Inger Gunnarsson,
-,Jonas@gsonsakeri.se,Jonas Daneby,
-,lager@gsonsakeri.se,Lager,
-,Leif@gsonsakeri.se,Leif Gunnarsson,"Microsoft 365 Business Premium, Microsoft 365 Business Basic"
-,linus@gsonsakeri.se,Linus Liljeqvist,
-,mattias@gsonsakeri.se,Mattias Gustafsson,"Microsoft 365 Business Standard, Microsoft 365 Business Premium"
-,Micael@gsonsakeri.se,Micael Lager,
-,Niclas@gsonsakeri.se,Niclas Gustafsson,"Microsoft 365 Business Standard, Microsoft 365 Business Premium"
-,scanner@gsonsakeri.se,Scanner,
-,skrivare@gsonsakeri.se,Skrivare,
-,stefan@gsonsakeri.se,Stefan Andersson,
-,Tobias@gsonsakeri.se,Tobias Brååt,"Microsoft 365 Business Standard, Microsoft 365 Business Premium"
-,verkstad@gsonsakeri.se,Verkstad,
+UserPrincipalName,DisplayName,Licenses
+admin@gsonsab.onmicrosoft.com,admin,
+Adminlpi@gsonsakeri.se,G:sons Åkeri AB Linköping,Microsoft 365 Business Standard
+Adminnrk@gsonsakeri.se,G:sons Åkeri AB Norrköping,Microsoft 365 Business Standard
+andreas@gsonsakeri.se,Andreas Nilsson,
+canergo.admin@gsonsakeri.se,canergo admin,
+fredrik.lindqvist@gsonsakeri.se,Fredrik Lindqvist,
+Fredrik@gsonsakeri.se,Fredrik Gunnarsson,"Microsoft 365 Business Premium, Microsoft 365 Business Basic"
+Glenn@gsonsakeri.se,Glenn Dahlberg,"Microsoft 365 Business Standard, Microsoft 365 Business Premium"
+greger@gsonsakeri.se,Greger Hagström,"Microsoft 365 Business Standard, Microsoft 365 Business Premium"
+Hakan@gsonsakeri.se,Håkan Svensson,"Microsoft 365 Business Standard, Microsoft 365 Business Premium"
+Henrik@gsonsakeri.se,Henrik Månsson,
+info@gsonsakeri.se,organisation,
+Inger@gsonsakeri.se,Inger Gunnarsson,
+Jonas@gsonsakeri.se,Jonas Daneby,
+lager@gsonsakeri.se,Lager,
+Leif@gsonsakeri.se,Leif Gunnarsson,"Microsoft 365 Business Premium, Microsoft 365 Business Basic"
+linus@gsonsakeri.se,Linus Liljeqvist,
+mattias@gsonsakeri.se,Mattias Gustafsson,"Microsoft 365 Business Standard, Microsoft 365 Business Premium"
+Micael@gsonsakeri.se,Micael Lager,
+Niclas@gsonsakeri.se,Niclas Gustafsson,"Microsoft 365 Business Standard, Microsoft 365 Business Premium"
+scanner@gsonsakeri.se,Scanner,
+skrivare@gsonsakeri.se,Skrivare,
+stefan@gsonsakeri.se,Stefan Andersson,
+Tobias@gsonsakeri.se,Tobias Brååt,"Microsoft 365 Business Standard, Microsoft 365 Business Premium"
+verkstad@gsonsakeri.se,Verkstad,
